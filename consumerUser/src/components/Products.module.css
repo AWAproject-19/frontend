@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(233, 233, 233);
+}
+.productContainer {
+  display: block;
+  
+}
+.navigation {
+  display: flex;
+  position: fixed;
+  width: 100vw;
+  justify-content: space-between;
+  padding: 30px;
+  background-color: rgb(233, 233, 233);
+  font-size: 25px;
+  height: 70px;
+  background-color: #131921;
+
+}
+
+.products {
+  display: grid;
+  
+  grid-gap: 20px;
+  padding: 100px;
+}
+.product {
+  display: block;
+  background-color: #fff;
+  padding: 20px;
+}
+.product img {
+  height: 200px;
+}
+
+
+

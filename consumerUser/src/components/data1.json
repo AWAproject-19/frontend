@@ -1,0 +1,34 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "pizza restaurant",
+        "image1": "stars.png",
+        "image": "pizzaR.jpeg",
+        "order": "order here"
+      },
+    
+      {
+        "id":2,
+        "name": "burger restaurant",
+        "image1": "stars.png",
+        "image": "burgerR.jpg",
+        "order": "order here"
+      },
+  
+      {
+        "id":3,
+        "name": "chinese restaurant",
+        "image1": "stars.png",
+        "image": "chineseR.png",
+        "order": "order here"
+      },
+      {
+        "id":4,
+        "name": "kebab restaurant",
+        "image1": "stars.png",
+        "image": "kebabR.jpg",
+        "order": "order here"
+      }
+    ]
+  }

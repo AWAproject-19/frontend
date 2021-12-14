@@ -1,0 +1,22 @@
+.name
+{
+  font-feature-settings: "kern", "ss01", "ss05", "ss07";
+  text-rendering: optimizelegibility;
+  font-family: WoltHeading-Omnes, system-ui, -apple-system, BlinkMacSystemFont, "Roboto", "Open Sans", sans-serif;
+  font-weight: 594;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 18px;
+  color:black
+}
+.author
+{
+  color: #333333
+}
+.product
+{
+  width: 12.33%;
+  box-sizing: border-box;
+  padding: 30px;
+  margin-left: 425px;
+}

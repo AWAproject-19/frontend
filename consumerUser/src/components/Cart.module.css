@@ -1,0 +1,44 @@
+
+
+.cartcontainer {
+    display: block;
+  }
+  .cartcontainer a {
+    color: tomato;
+    font-size: 35px;
+    text-decoration: none;
+    margin: 40px;
+  }
+  .cart {
+    padding: 50px;
+  }
+  .cartcad {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    background: #fff;
+    padding: 20px;
+    
+  }
+  .cartcad img {
+    width: 200px;
+  }
+  .cartcad button {
+    background: tomato;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 20px;
+  }
+
+  .buttonA {
+    background: tomato;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 20px;
+  }

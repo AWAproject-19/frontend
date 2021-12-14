@@ -1,0 +1,23 @@
+.background{
+    width: 101%;
+    color: rgb(255, 255, 255);
+    height: 70px;
+    background-color: #131921;
+    margin-left: -8px;
+    margin-top: -62px;
+  }
+
+  .searchBackground{
+    margin-top: -38px;
+    margin-left: 670px;
+    color: white;
+  }
+
+  .ravintolaTitle{
+    font-weight: 400;
+    font-size: 2.4rem;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 450px;
+  }
+  
